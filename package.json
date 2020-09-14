@@ -1,0 +1,22 @@
+{
+  "name": "bownloader",
+  "version": "0.1.0",
+  "description": "Blob downloader",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterheesterman/bownloader.git"
+  },
+  "keywords": [
+    "Blob",
+    "Browser",
+    "Download"
+  ],
+  "author": "Peter Heesterman <heesterman.peter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peterheesterman/bownloader/issues"
+  },
+  "homepage": "https://github.com/peterheesterman/bownloader#readme"
+}
